@@ -56,3 +56,8 @@ SQL-Business-Insights/
 - Create a Power BI dashboard.
 - Perform KPI analysis.
 - Build Customer Segmentation (RFM Analysis).
+
+
+## 👩‍💻 Author
+
+**Palakala Deekshitha**

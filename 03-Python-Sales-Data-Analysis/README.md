@@ -108,3 +108,8 @@ pip install -r requirements.txt
 
 ### Top 10 States by Sales
 ![Top 10 States](screenshots/top_10_states.png)
+
+
+## 👩‍💻 Author
+
+**Palakala Deekshitha**

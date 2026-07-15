@@ -79,3 +79,11 @@ Business Insights and Marketing Recommendations
 ---
 
 Thank you for visiting my portfolio!
+
+## 🌐 Connect with Me
+
+📧 **Email:** deekshithaapalakala@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/deekshitha-reddy-432946336
+
+💻 **GitHub:** https://github.com/deekshithardy

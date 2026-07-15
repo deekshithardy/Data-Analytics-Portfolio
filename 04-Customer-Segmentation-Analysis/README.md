@@ -89,5 +89,3 @@ pip install -r requirements.txt
 
 **Palakala Deekshitha**
 
-- LinkedIn: * www.linkedin.com/in/deekshitha-reddy-432946336 *
-- GitHub: * github.com/deekshithardy *
