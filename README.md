@@ -45,15 +45,22 @@ Business Insights Generation
 
 ---
 
-### 4. Customer Segmentation
-**Status:** Coming Soon
+
+### 4. Customer Segmentation Analysis using Machine Learning
+**Tools**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
+
+Customer Data Analysis  
+Data Cleaning and Preprocessing  
+Exploratory Data Analysis (EDA)  
+K-Means Clustering  
+Elbow Method for Optimal Cluster Selection  
+Customer Segmentation Visualization  
+Business Insights and Marketing Recommendations
+
+📁 Folder: `04-Customer-Segmentation-Analysis`
 
 ---
 
-### 5. Fashion Recommendation System
-**Status:** Coming Soon
-
----
 
 ## 🛠️ Skills Demonstrated
 
@@ -67,6 +74,7 @@ Business Insights Generation
 - Pandas
 - NumPy
 - Machine Learning
+
 
 ---
 
