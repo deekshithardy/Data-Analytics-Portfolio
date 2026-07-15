@@ -14,7 +14,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases hands-on proje
 - Sales and Profit Analysis
 - Business Insights
 
-📁 Folder: `SQL-Business-Insights`
+📁 Folder: `01-SQL-Business-Insights`
 
 ---
 
@@ -27,12 +27,21 @@ Welcome to my Data Analytics Portfolio! This repository showcases hands-on proje
 - Sales & Profit Analysis
 - Interactive Slicers
 
-📁 Folder: `PowerBI-Retail-Sales-Dashboard`
+📁 Folder: `02-PowerBI-Retail-Sales-Dashboard`
 
 ---
 
 ### 3. Python Sales Data Analysis
-**Status:** Coming Soon
+**Tools**: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
+Sales Trend Analysis
+Category and Region-wise Analysis
+Data Visualization
+Business Insights Generation
+
+📁 Folder: `03-Python-Sales-Data-Analysis`
 
 ---
 
