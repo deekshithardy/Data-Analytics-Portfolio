@@ -88,8 +88,8 @@ pip install -r requirements.txt
 
 **Palakala Deekshitha**
 
-- LinkedIn: *(add your LinkedIn profile link)*
-- GitHub: *(add your GitHub profile link)*
+- LinkedIn: * www.linkedin.com/in/deekshitha-reddy-432946336 *
+- GitHub: * github.com/deekshithardy *
 
 
 ## 📸 Dashboard & Visualizations
