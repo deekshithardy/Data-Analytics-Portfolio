@@ -75,6 +75,16 @@ pip install -r requirements.txt
 
 ---
 
+## 📸 Visualizations
+
+### Elbow Method
+![Elbow Method](screenshots/elbow_method.png)
+
+### Customer Segments
+![Customer Segments](screenshots/customer_segments.png)
+
+
+
 ## 👩‍💻 Author
 
 **Palakala Deekshitha**
