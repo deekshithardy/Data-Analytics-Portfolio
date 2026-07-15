@@ -84,12 +84,6 @@ pip install -r requirements.txt
 
 ---
 
-## 👩‍💻 Author
-
-**Palakala Deekshitha**
-
-- LinkedIn: * www.linkedin.com/in/deekshitha-reddy-432946336 *
-- GitHub: * github.com/deekshithardy *
 
 
 ## 📸 Dashboard & Visualizations
@@ -108,6 +102,13 @@ pip install -r requirements.txt
 
 ### Top 10 States by Sales
 ![Top 10 States](screenshots/top_10_states.png)
+
+## 👩‍💻 Author
+
+**Palakala Deekshitha**
+
+- LinkedIn: * www.linkedin.com/in/deekshitha-reddy-432946336 *
+- GitHub: * github.com/deekshithardy *
 
 
 ## 👩‍💻 Author
