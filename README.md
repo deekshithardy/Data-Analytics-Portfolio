@@ -1,6 +1,6 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics 
 
-Welcome to my Data Analytics Portfolio! This repository showcases hands-on projects demonstrating my skills in SQL, Power BI, Python, and Machine Learning.
+Welcome! This repository showcases hands-on projects demonstrating my skills in SQL, Power BI, Python, and Machine Learning.
 
 ---
 
@@ -78,7 +78,7 @@ Business Insights and Marketing Recommendations
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting!
 
 ## 🌐 Connect with Me
 
